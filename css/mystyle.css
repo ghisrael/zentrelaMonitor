@@ -1,0 +1,21 @@
+<style>
+  
+  table {
+    border-collapse: separate;
+    border-spacing: 0 5px;
+  }
+
+  thead th {
+    font-size: 14px;
+  }
+
+  tbody td {
+    font-size: 12px;
+  }
+
+  tr td:first-child,
+  tr th:first-child {
+    font-size: 10px;
+  }
+
+</style>
